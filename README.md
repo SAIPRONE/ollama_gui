@@ -10,7 +10,7 @@ The File menu offers essential operations:
 - **Save**: Save your current work.
 - **Exit**: Exit the application safely.
 
-![File Menu](path/to/your/image1.png)
+(![image](https://github.com/SAIPRONE/ollama_gui/assets/95390348/bbe377e5-ea36-4391-9e1d-e105615e8d5b)
 
 ### 📊 Data Operations
 Easily Train the model with your own data in different data formats using the Data menu:
@@ -19,7 +19,7 @@ Easily Train the model with your own data in different data formats using the Da
 - **Load JSON**: Import JSON files.
 - **Load HTML**: Load HTML files.
 
-![Data Menu](![alt text](image-2.png))
+(![alt text](image-2.png))
 
 ### 🧠 Model Operations
 The Model menu allows you to interact with machine learning models:
@@ -27,12 +27,12 @@ The Model menu allows you to interact with machine learning models:
 - **Generate Response**: Generate responses using the Trained model with your own data.
 - **Train Model**: Train a new model with your data.
 
-![Model Menu](![alt text](image-1.png))
+(![alt text](image-1.png))
 
 ### ❓ Help
 Access help and documentation from the Help menu to make the most out of the application.
 
-![Help Menu](![alt text](image.png))
+(![alt text](image.png))
 
 ## 🚀 Getting Started
 
