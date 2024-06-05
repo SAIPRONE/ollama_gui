@@ -10,7 +10,7 @@ The File menu offers essential operations:
 - **Save**: Save your current work.
 - **Exit**: Exit the application safely.
 
-(https://github.com/SAIPRONE/ollama_gui/assets/95390348/bbe377e5-ea36-4391-9e1d-e105615e8d5b)
+![image](https://github.com/SAIPRONE/ollama_gui/assets/95390348/bbe377e5-ea36-4391-9e1d-e105615e8d5b)
 
 ### 📊 Data Operations
 Easily Train the model with your own data in different data formats using the Data menu:
